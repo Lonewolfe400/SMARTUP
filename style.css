@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(2, 2, 19);
+    color: beige;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.topup {
+background-color: aquamarine;
+height: 180px;
+
+}
+.dem {
+    background-color:blue;
+    height: 50px;
+
+    
+   
+}
+
+.dem h1{
+    text-align: center;
+}
+.topup ul li {
+    color: rgb(109, 109, 197);
+    text-align: left;
+    list-style:square;
+    text-transform: none;
+    
+}
+.topup ul li a{
+    color: rgb(9, 10, 94);
+    text-decoration: none ;
+    font-weight: bold;
+
+}
+
+ul.topnav li {
+    list-style: none;
+    float: left;
+    margin: 0;
+}
+ul.topnav li.topnav-right {
+    list-style: none;
+    float: right;
+}
+
+
+ul.topnav li a {
+    text-decoration: none ;
+    display: block;
+    text-align: center;
+    color: rgba(146, 245, 245, 0.603);
+    min-height: 16px;
+    text-transform: uppercase;
+    padding: 14px;
+
+}
+
+ul.topnav li a:hover {
+    background-color:rgb(5, 5, 131);
+    color:aquamarine;
+
+}
+.topup li a:hover {
+    background-color: rgb(37, 2, 136);
+    color:aqua;
+}
+.topup h2 {
+    margin: 0%;
+    color: blue;
+   font-style: italic;
+   text-decoration:overline;
+}
+
+.demmo {
+font-size: 25px;
+}
